@@ -1,0 +1,42 @@
+/*header*/
+h1{
+	width: 300px;
+	height: 50px;
+	padding:10px;
+	margin: 5px;
+	background-color: orange;
+}
+
+/*instructions*/
+.instructions{
+	width: 400px;
+	height: 500px;
+	background-color: green;
+}
+
+/*number to match*/
+div.numberToMatch{
+	width:250px;
+	height:100px;
+	background-color: pink;
+}
+
+/*wins and losses*/
+div.winsAndLosses{
+	width:150px;
+	height:100px;
+	background-color: teal;
+}
+
+/*gems*/
+.gemImage{
+	width:60px;
+	margin:10px;
+}
+
+/*total score*/
+div.userTotal{
+	width:250px;
+	height:100px;
+	background-color: pink;
+}
